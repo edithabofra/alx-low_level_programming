@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * This program prints a line with pus function
+ * main - This program prints a line with puts function
  * Return: Always 0 (Success)
 */
 int main(void)
