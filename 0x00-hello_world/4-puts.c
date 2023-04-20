@@ -1,7 +1,7 @@
 #include<stdio.h>
 /*
  * This program prints a line with pus function
- * Return: Always 0 (SuccessL
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
