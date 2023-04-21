@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* main - Assigns random numbers to a variable
+/*
+ * * main - Assigns random numbers to a variable
  *
  *Return: Always 0 (Success)
  */
