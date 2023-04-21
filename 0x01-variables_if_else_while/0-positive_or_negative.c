@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - etermine if number is negative, zero or pisitve
- * 
+ * main - determine if number is negative, zero or positve
+ *
  * Return: Always 0 (Success)
-*/
+ */
 int main(void)
 {
 	int n;
