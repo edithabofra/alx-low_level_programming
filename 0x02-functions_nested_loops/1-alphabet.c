@@ -4,7 +4,7 @@
  *print_alphabet - print all alphabet in lowercase
  */
 
-void print_alphabets(void)
+void print_alphabets(void);
 {
 	char letter;
 
