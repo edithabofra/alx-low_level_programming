@@ -8,9 +8,9 @@
  * Return: 1 for digit or 0 for not digit
  */
 
-init _isdigit(int x)
+int _isdigit(int c)
 {
-	if (x >= 48 && x <= 57)
+	if (c >= 00 && c <= 9)
 	{
 		return (1);
 	}
